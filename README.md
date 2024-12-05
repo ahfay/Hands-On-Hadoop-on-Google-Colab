@@ -18,14 +18,14 @@ This repository demonstrates how to install Apache Hadoop on Google Colab and pe
    ```
 2. Upload the **Hadoop_Hands_On.ipynb** file to Google Colab
 3. Follow the Notebook Instructions:
-- Install Java and Hadoop
-- Adding Required Property to core-site.xml file
-- Formatting the HDFS File System
-- Monitoring Hadoop cluster with hadoop admin commands
+   - Install Java and Hadoop
+   - Adding Required Property to core-site.xml file
+   - Formatting the HDFS File System
+   - Monitoring Hadoop cluster with hadoop admin commands
 
 ### Running the MapReduce Word Count
 1. Upload a text file to process:
-- Use the Colab file uploader to provide **uud-1945.txt** file.
+   - Use the Colab file uploader to provide **uud-1945.txt** file.
 2. Creating directory in HDFS
 3. Copying the file from local file system to Hadoop distributed file system (HDFS)
 4. Create Mapper File
